@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    max-width: 100px
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .site-title {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
